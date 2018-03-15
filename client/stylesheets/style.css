@@ -9,11 +9,16 @@
   
   body {
     background: #eee;
-    color: #666666; }
+    color: #666666; 
+    padding : 0px;
+    margin :0px;
+  }
   
   #main {
     position: relative;
+    
   }
+
   .page {
     position: absolute;
     top: 0px;
